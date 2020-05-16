@@ -1,0 +1,112 @@
+
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Lora', serif;
+  text-align: center;
+  color: #ff5200;
+  padding: 3.125rem;
+}
+
+h4{
+  text-align: center;
+  font-size: 1rem;
+}
+
+/* SECTION HEADING */
+
+#heading {
+  background-color: gray;
+  border: 10px solid #ff5200;
+ }
+
+#heading-mainmenu {
+  background-color: gray;
+  border: 10px solid #ff5200;
+}
+
+p{
+  color: #fff;
+}
+.navbar-dark {
+  color: #ff5200;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  color: #fff!important;
+  font-size: 1.5rem;
+}
+
+.numberGenerated {
+  border: 5px solid!important;
+  font-size: 1.25rem;
+  border-radius: 20%;
+  padding: 40px;
+  background-color: #fff;
+  margin: 20px;
+}
+
+.buttonClick {
+ background-color: #fff;
+ border: 5px solid!important;
+ border-radius: 20%;
+ padding: 10px;
+ margin: 50px;
+}
+
+button:hover {
+   position: relative;
+   background-color: #ff5200;
+   color: #fff;
+}
+
+/* SECTION ALLNUMBER */
+
+.row {
+  margin: 1.5rem 2.5rem;
+}
+
+.numberCircle {
+    margin: 0 4rem 2rem;
+    border-radius: 30%;
+    padding: 5px;
+    background: #fff;
+    border: 2px solid #666;
+    color: #666;
+    text-align: center;
+    font: 2rem Arial, sans-serif;
+    margin: 1px 33px;
+}
+
+/* FOOTER */
+
+footer {
+  text-align: right;
+  color: #ff5200;
+  font-family: 'Dancing Script', cursive;
+}
+
+/* Ticket HTML */
+
+#ticketContainer {
+  margin: 50px;
+
+}
+.ticketRowBorder {
+  position: relative;
+  margin: 0;
+}
+
+.ticketColBorder {
+  position: relative;
+  border: 1px solid black;
+  width: 100px;
+  height: 50px;
+  padding: 5px 5px;
+  text-align: center;
+  background-color: gray;
+  color: #fff;
+  font-weight: 200;
+  font-size: 2rem;
+}
